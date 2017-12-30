@@ -1,0 +1,150 @@
+body {
+  background-color:#873600;
+  width: 100%;
+  height: 100%;
+
+}
+
+.cabezera{
+  display: table;
+    background-color: #84ffff;
+    width: 1300px;
+    height: 100%;
+    margin: 0 auto;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.menu_principal{
+display: table;
+  margin-right: 50px;
+  background-color:#EB984E;
+  width: 1300px;
+  height: 100%;
+  margin: 0  auto;
+  border-radius: 10px 10px 10px 10px;
+align-content: center;
+
+  }
+
+
+
+.contenido{
+  display: table;
+    margin-right: 50px;
+    background-color:#EB984E;
+    width: 1300px;
+    height: 100%;
+    margin: 0  auto;
+    border-radius: 10px 10px 10px 10px;
+    }
+
+  .margen{
+    margin-top: 20px;
+    border-radius: 10px 10px 0px 0px;
+  }
+
+.navbar-nav {
+  display: table;
+
+  height: 100%;
+  margin: 0 auto;
+  border-radius: 10px 10px 10px 10px;
+  align-content: center;
+
+  }
+
+
+
+.logo-img {
+  width: 150px;
+}
+.redes-sociales {
+margin-top: 50px;
+align-content: center;
+
+}
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+.navbar-inverse {
+  background-color: #84ffff;
+  min-height: 10%;
+  border: none;
+}
+
+
+  #bordes {
+    border-radius: 25px;
+  }
+
+.ul{
+  width: 100%;
+
+}
+
+.img-movies {
+  margin-top: 10px;
+  height: 250px;
+  width: 100%;
+  padding: 5px;
+
+}
+.icono_coment{
+    width:80px;
+  font-size:80px;
+}
+
+
+@media (max-width: 770px) {
+
+  .redes-sociales {
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .menu_principal{
+  display: table;
+    background-color:#EB984E;
+    width: 100%;
+    height: 100%;
+    margin: 0  auto;
+      border-radius: 0px 0px 0px 0px;
+
+    }
+
+  .cabezera{
+      display: table;
+      background-color: #84ffff;
+      width: 100%;
+      height: 100%;
+        margin: 0  auto;
+    border-radius: 0px 0px 0px 0px;
+  }
+
+  .navbar-nav {
+    width: 100%;
+
+    border-radius: 0px 0px 0px 0px;
+
+    }
+    .margen{
+      margin-top: 20px;
+    }
+
+    div[class*="columna"]{
+  min-height: 50rem;
+  border: 1px solid #eceff1;
+}
+
+.icono_coment{
+  margin-left:0px;
+  margin-top: 10px;
+  margin-right:35px;
+  font-size:40px;
+
+}
+
+
+
+}

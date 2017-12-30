@@ -1,0 +1,91 @@
+.fondo-body {
+  background: url(../img/fondo.svg)no-repeat center center;
+  background-size: cover;
+   background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+
+}
+
+
+
+.logo-img{
+  width: 30%;
+}
+.fondo{
+background-color: rgba(133, 146, 158, 0.5);
+}
+.fondo_menu{
+  background-color: #D4E6F1;
+
+}
+.titulo{
+ color: #FDFEFE  ;
+}
+
+.favorito{
+  margin-top: 30px;
+ color: #F1948A;
+
+}
+
+.historial{
+  margin-top: 30px;
+ color: #F1948A;
+
+}
+
+.historial_margen{
+  margin-left:    20px;
+ color: #F1948A;
+
+}
+.img_favorito{
+  max-height: 229px;
+  height: 1500px;
+
+}
+
+h6 {
+    text-align: right;
+}
+h5 {
+    text-align: left;
+}
+.sub_titulo {
+  margin-top: 30px;
+ color: #A569BD  ;
+ text-align: left;
+}
+
+.fondo_entrada {
+  margin-top: 30px;
+ text-align: left;
+background-color: rgba(133, 146, 158, 0.5);
+}
+
+textarea {
+  resize: none;
+}
+.imagen_entrada{
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+.bordes{
+border-right-style:solid;
+border-color: #FDFEFE;
+}
+.bordes_menu{
+border-right-style:solid;
+border-color: #F1948A;
+}
+
+.margen_sup{
+  margin-top: -16px;
+}
